@@ -1,0 +1,3 @@
+ionel,password1
+maria,pwd
+marius,ppp
